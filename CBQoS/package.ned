@@ -1,0 +1,3 @@
+package cbqos;
+
+@license(LGPL);
